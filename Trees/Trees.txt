@@ -1,9 +1,5 @@
 # Run Times of Tree-Based Data Structures
 
-## Introduction
-
-In this document, we will discuss the run times of various tree-based data structures commonly used in computer science.
-
 ## Binary Search Tree (BST)
 
 A Binary Search Tree is a binary tree where the value of each node is greater than all values in its left subtree and less than all values in its right subtree. The run times for common operations on a BST are as follows:
