@@ -1,4 +1,4 @@
-### Data Structures 
+# Data Structures 
 ## Array-Based Lists 
 - Array Stack
 - Array Deque
