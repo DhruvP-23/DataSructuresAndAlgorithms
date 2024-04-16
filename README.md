@@ -1,3 +1,14 @@
+# TO LEARN 
+- SKIPLISTS
+- PROPERTY INVARIANTS 
+- RED BLACK TREE
+- SCAPEGOAT TREE
+- TREAP
+- HEAPS
+- HASH TABLES AND HASH CODES
+- ALGORITHMS 
+- GRAPH STUFF
+***
 # Data Structures 
 ## Array-Based Lists 
 - Array Stack
@@ -22,4 +33,6 @@
 ## Heaps 
 - Binary Heap
 - Meldable Heap
+
+
   
